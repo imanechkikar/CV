@@ -1,7 +1,7 @@
 Stefania F. Cardenas
 ====================
 I'm a junior level Software Developer passionate about making beautiful functional web applications. After graduating with a first class degree in Oriental Languages from La Sapienza University, I spent 18 months working as a recruitment consultant in the IT sector. I decided to join a highly intensive web development course to pursue my life-long interest for web technologies and kickstart a career as a junior web developer.
-I am eager to continue developing my skills while working in a creative environment. 
+I am eager to continue developing my skills while working in a creative environment. [Read my code] on Github.
 
 Code examples
 -------------
@@ -47,17 +47,26 @@ A highly intensive web development course built on the most modern learning tech
 
 Education and awards
 --------------------
-2010-2012. Master Degree in Oriental Languages and Cultures, major in Indian Archeology and History. Faculty of Oriental Studies – La Sapienza University of Rome. Grade: 109/110 (Equivalent to 1st Class)
+###La Sapienza University of Rome
+__Faculty of Oriental Studies__
 
-2005-2009. Bachelor Degree in Oriental Languages and Cultures. Faculty of Oriental Studies – La Sapienza University of Rome. Grade: 110/110 (Equivalent to 1st Class). 
-2007-2008. Exchange student, Jadavpur University – Kolkata, India. Awarded a six month scholarship.
+_2010-2012_. Master Degree in Oriental Languages and Cultures, major in Indian Archeology.
+_Grade: 109/110 (Equivalent to 1st Class)_
 
-1999-2004. “A Levels” in Foreign Languages - Grade: 93/100 (Equivalent to AAB)
-Senior High School Specializing In Modern Languages. - “P.E. Imbriani” Institute – Avellino, Italy
+2005-2009. Bachelor Degree in Oriental Languages and Cultures.
+_Grade: 110/110 (Equivalent to 1st Class)_
 
-2004. Linguistic Stage
-European School of Economics, London
-Awarded a 100 hours linguistic stage.
+###Jadavpur University – Kolkata, India.
+_2007-2008_. Exchange student. Awarded a six month scholarship.
+
+###“P.E. Imbriani” Institute – Avellino, Italy
+__Senior High School Specializing In Modern Languages__
+
+_1999-2004_. “A Levels” in Foreign Languages
+_Grade: 93/100 (Equivalent to AAB)_
+
+###European School of Economics, London
+_2004_ . Linguistic Stage. Awarded a 100 hours linguistic stage.
 
 
 Employment History
