@@ -69,8 +69,8 @@ __Senior High School Specializing In Modern Languages__
 Employment History
 --------------------
 
-### Recruitment Consultant
-**Oho Group Ltd** &mdash; London, UK | *October 2012 – March 2014* 
+### Oho Group Ltd
+**Recruitment Consultant** &mdash; London, UK | *October 2012 – March 2014* 
 
 I have been working as a Recruitment Consultant in the IT Sector. 
 * Searching and selection of the potential candidates .
@@ -78,29 +78,29 @@ I have been working as a Recruitment Consultant in the IT Sector.
 * Enter and maintain integrity of data in recruiting database (Voyager) and produce ad hoc recruiting searches.
 * Attended several technology fairs and conferences.
 
-###### _Internships and collaborations_
+### _Internships and collaborations_
 
-### Project Management 
-**MH2YH (Charity)** &mdash; London, UK | *November 2012 – July 2013*
+### MH2YH (Charity)
+**Project Management** &mdash; London, UK | *November 2012 – July 2013*
 
 While working at the Oho Group, I have been in charge of the management of a charity project called "My House 2 Your House" during which we raised £70,000+ for Parkinson’s UK, which works to find a cure and improve life for everyone affected by Parkinson’s.
 MH2YH took a group of ordinary guys on their 30's on an amazing journey from London to Amsterdam. But they were not flying, or driving, or taking the ferry. They made this journey by manpower alone. That is 537km in 5 days. 
 Duties vary from the selection and management of the routes and logistics to the booking of support vehicles, boats and hotels, budget management, etc. 
 
-### Collaborator
-**Rockerilla (Monthly Music magazine)** &mdash; Italy | *November 2010 – March 2012*
+### Rockerilla (Monthly Music magazine)
+**Collaborator** &mdash; Italy | *November 2010 – March 2012*
 
 Rockerilla is one of the most important italian music magazine. My main tasks as a music journalist were writing and editing articles; interviewing musicians, bands and writers; writing reviews about new album releases, books and live shows; photo shooting in live shows and photo editing.
 
-### Internship – Assistant Curator
-**National Museum of Oriental Arts "G. Tucci"** &mdash; Rome, Italy | *March - June 2010*
+### National Museum of Oriental Arts "G. Tucci" 
+**Internship – Assistant Curator** &mdash; Rome, Italy | *March - June 2010*
 
 My main tasks were the composition of graphic panels, writing of technical and scientific texts, creating PowerPoint presentations, acquisition of images, selection of verses from Sanskrit literature and bibliographic research. My work was done in collaboration with the scientific and technical apparatus and the press office of the Museum.
 
-###Shanti Travel Adventure Tours Pvt Ltd - New Delhi, India
-__Internship - Travel Advisor__ | _September 2009 - December 2009_
+###Shanti Travel Adventure Tours Pvt Ltd 
+__Internship - Travel Advisor__ &mdash; New Delhi, India | _September 2009 - December 2009_
 
-My main tasks were the organization of individual or group tours in the Indian Sub-continent. I was required to deal with customer bookings, responding to enquiries, create and design travel itineraries and quotations. I was in charge of the translations from various languages to English and vice versa and from Italian to French and vice versa, and for the preparation of PowerPoint presentations. My responsibilities included surveying various locations and meeting and negotiating with local hotels, agencies, transporters and guides.
+My main tasks were the organization of individualor group tours in the Indian Sub-continent. I was required to deal with customer bookings, responding to enquiries, create and design travel itineraries and quotations. I was in charge of the translations from various languages to English and vice versa and from Italian to French and vice versa, and for the preparation of PowerPoint presentations. My responsibilities included surveying various locations and meeting and negotiating with local hotels, agencies, transporters and guides.
 
 
 Other skills
