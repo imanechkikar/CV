@@ -8,7 +8,7 @@ Code examples
 
 | [Unipop] | [Flickagram] | [FlagGo] |
 | :------------- | :------------ | :---------- |
-| Unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop is designed for a closed community such as a university. Unipop is optimized for iPhone 5 and supports other mobile devices. | Ruby on Rails app based around the idea of Instagram and Flickr. You can post photos on the website, use hashtags, comments, etc. | FlagGo is a bookmark manager that allows you to save and manage your favourite webpages' URLs. Developed using Ruby, Sinatra, Capybara, HTML5, CSS3 and Postgres. |
+| Unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop is designed for a closed community such as a university. Unipop is optimized for iPhone 5 and supports other mobile devices. | Ruby on Rails app based around the idea of Instagram and Flickr. You can post photos on the website, use hashtags, comments, etc. | FlagGo is a bookmark manager that allows you to save and manage your favourite webpages' URLs. Developed using Ruby, Sinatra, Capybara, HTML5, CSS3 and PostgreSQL. |
 
 Software development
 ---------------
@@ -44,11 +44,11 @@ A highly intensive web development course built on the most modern learning tech
   - Full stack web development
   - Pair programming and teamwork
   - Final project: [UniPop] is a ruby on rails app developed by a team of 7 people in 2 weeks. I have been involved in the full development of the app focusing mainly on the following areas:
-   * mockups and prototypes using Balsamiq;
-   * user registration, autenthication and validation;
-   * geolocation, geocoding and distance calculation using Gmaps;
-   * infinte scrolling using JavaScript and will_paginate;
-   * contributed to the style of the application using HTML5, CSS3, Twitter Bootstrap, jQuery and JavaScript.
+   * Mockups and prototypes using Balsamiq;
+   * User registration, authentication and validation;
+   * Geolocation, geocoding and distance calculation using Gmaps;
+   * Infinite scrolling using JavaScript and will_paginate;
+   * Contributed to the style of the application using HTML5, CSS3, Twitter Bootstrap, jQuery and JavaScript.
 
 Education and awards
 --------------------
@@ -110,7 +110,7 @@ My main tasks were the composition of graphic panels, writing of technical and s
 ###Shanti Travel Adventure Tours Pvt Ltd 
 __Travel Advisor (Intern)__ &mdash; New Delhi, India | _September 2009 - December 2009_
 
-My main tasks were the organization of individualor group tours in the Indian Sub-continent. I was required to deal with customer bookings, responding to enquiries, create and design travel itineraries and quotations. I was in charge of the translations from various languages to English and vice versa and from Italian to French and vice versa, and for the preparation of PowerPoint presentations. My responsibilities included surveying various locations and meeting and negotiating with local hotels, agencies, transporters and guides.
+My main tasks were the organization of individual or group tours in the Indian Sub-continent. I was required to deal with customer bookings, responding to enquiries, create and design travel itineraries and quotations. I was in charge of the translations from various languages to English and vice versa and from Italian to French and vice versa, and for the preparation of PowerPoint presentations. My responsibilities included surveying various locations and meeting and negotiating with local hotels, agencies, transporters and guides.
 
 
 More about me
