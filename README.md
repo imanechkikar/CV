@@ -50,23 +50,23 @@ Education and awards
 ###La Sapienza University of Rome
 __Faculty of Oriental Studies__
 
-_2010-2012_. Master Degree in Oriental Languages and Cultures, major in Indian Archeology.
-_Grade: 109/110 (Equivalent to 1st Class)_
+2010-2012. Master Degree in Oriental Languages and Cultures, major in Indian Archeology.
+Grade: 109/110 (Equivalent to 1st Class)
 
 2005-2009. Bachelor Degree in Oriental Languages and Cultures.
-_Grade: 110/110 (Equivalent to 1st Class)_
+Grade: 110/110 (Equivalent to 1st Class)
 
 ###Jadavpur University – Kolkata, India.
-_2007-2008_. Exchange student. Awarded a six month scholarship.
+2007-2008. Exchange student. Awarded a six month scholarship.
 
 ###“P.E. Imbriani” Institute – Avellino, Italy
 __Senior High School Specializing In Modern Languages__
 
-_1999-2004_. “A Levels” in Foreign Languages
-_Grade: 93/100 (Equivalent to AAB)_
+1999-2004. “A Levels” in Foreign Languages
+Grade: 93/100 (Equivalent to AAB)
 
 ###European School of Economics, London
-_2004_ . Linguistic Stage. Awarded a 100 hours linguistic stage.
+2004. Linguistic Stage. Awarded a 100 hours linguistic stage.
 
 
 Employment History
