@@ -81,8 +81,8 @@ Employment History
 ### Oho Group Ltd
 **Recruitment Consultant** &mdash; London, UK | *October 2012 – March 2014* 
 
-I have been working as a Recruitment Consultant in the IT Sector. 
-* Searching and selection of the potential candidates .
+I have been working as a Recruitment Consultant in the IT Sector for 18 months. Main tasks:
+* Searching and selection of the potential candidates.
 * Schedule interviews and communicate interview details to candidates. Test candidates' preparation before the interviews and make certain they have all of the information needed.
 * Enter and maintain integrity of data in recruiting database (Voyager) and produce ad hoc recruiting searches.
 * Attended several technology fairs and conferences.
@@ -105,12 +105,12 @@ Rockerilla is one of the most important italian music magazine. My main tasks as
 ### National Museum of Oriental Arts "G. Tucci" 
 **Assistant Curator (Intern)** &mdash; Rome, Italy | *March - June 2010*
 
-My main tasks were the composition of graphic panels, writing of technical and scientific texts, creating PowerPoint presentations, acquisition of images, selection of verses from Sanskrit literature and bibliographic research. My work was done in collaboration with the scientific and technical apparatus and the press office of the Museum.
+My main tasks were the composition of graphic panels, writing of technical and scientific texts, selection of Sanskrit literature and bibliographic research. My work was done in collaboration with the scientific and technical apparatus and the press office of the Museum.
 
 ###Shanti Travel Adventure Tours Pvt Ltd 
 __Travel Advisor (Intern)__ &mdash; New Delhi, India | _September 2009 - December 2009_
 
-My main tasks were the organization of individual or group tours in the Indian Sub-continent. I was required to deal with customer bookings, responding to enquiries, create and design travel itineraries and quotations. I was in charge of the translations from various languages to English and vice versa and from Italian to French and vice versa, and for the preparation of PowerPoint presentations. My responsibilities included surveying various locations and meeting and negotiating with local hotels, agencies, transporters and guides.
+My main tasks were the organization of individual or group tours in the Indian Sub-continent. I was required to deal with customer bookings, responding to enquiries, create and design travel itineraries and quotations. I was in charge of the translations from various languages to English and vice versa and from Italian to French and vice versa. My responsibilities included surveying various locations and meeting and negotiating with local hotels, agencies, transporters and guides.
 
 
 More about me
