@@ -98,12 +98,12 @@ Duties vary from the selection and management of the routes and logistics to the
 Rockerilla is one of the most important italian music magazine. My main tasks as a music journalist were writing and editing articles; interviewing musicians, bands and writers; writing reviews about new album releases, books and live shows; photo shooting in live shows and photo editing.
 
 ### National Museum of Oriental Arts "G. Tucci" 
-**Internship – Assistant Curator** &mdash; Rome, Italy | *March - June 2010*
+**Intern, Assistant Curator** &mdash; Rome, Italy | *March - June 2010*
 
 My main tasks were the composition of graphic panels, writing of technical and scientific texts, creating PowerPoint presentations, acquisition of images, selection of verses from Sanskrit literature and bibliographic research. My work was done in collaboration with the scientific and technical apparatus and the press office of the Museum.
 
 ###Shanti Travel Adventure Tours Pvt Ltd 
-__Internship - Travel Advisor__ &mdash; New Delhi, India | _September 2009 - December 2009_
+__Intern, Travel Advisor__ &mdash; New Delhi, India | _September 2009 - December 2009_
 
 My main tasks were the organization of individualor group tours in the Indian Sub-continent. I was required to deal with customer bookings, responding to enquiries, create and design travel itineraries and quotations. I was in charge of the translations from various languages to English and vice versa and from Italian to French and vice versa, and for the preparation of PowerPoint presentations. My responsibilities included surveying various locations and meeting and negotiating with local hotels, agencies, transporters and guides.
 
