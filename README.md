@@ -6,9 +6,9 @@ I am eager to continue developing my skills while working in a creative environm
 Code examples
 -------------
 
-| [Unipop] | [Instagram Clone] | [Bookmark Manager] |
+| [Unipop] | [Flickagram] | [FlagGo] |
 | :------------- | :------------ | :---------- |
-| Write text here | Text | More Text |
+| Unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop is designed for a closed community such as a university. Unipop is optimized for iPhone 5 and supports other mobile devices. | Ruby on Rails app based around the idea of Instagram and Flickr. You can post photos on the website, use hashtags, comments, etc. | FlagGo is a bookmark manager that allows you to save and manage your favourite webpages' URLs. Developed using Ruby, Sinatra, Capybara, HTML5, CSS3 and Postgres. |
 
 Software development
 ---------------
@@ -43,7 +43,12 @@ A highly intensive web development course built on the most modern learning tech
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: [UniPop] - description
+  - Final project: [UniPop] is a ruby on rails app developed by a team of 7 people in 2 weeks. I have been involved in the full development of the app focusing mainly on the following areas:
+   * mockups and prototypes using Balsamiq;
+   * user registration, autenthication and validation;
+   * geolocation, geocoding and distance calculation using Gmaps;
+   * infinte scrolling using JavaScript and will_paginate;
+   * contributed to the style of the application using HTML5, CSS3, Twitter Bootstrap, jQuery and JavaScript.
 
 Education and awards
 --------------------
@@ -98,12 +103,12 @@ Duties vary from the selection and management of the routes and logistics to the
 Rockerilla is one of the most important italian music magazine. My main tasks as a music journalist were writing and editing articles; interviewing musicians, bands and writers; writing reviews about new album releases, books and live shows; photo shooting in live shows and photo editing.
 
 ### National Museum of Oriental Arts "G. Tucci" 
-**Intern, Assistant Curator** &mdash; Rome, Italy | *March - June 2010*
+**Assistant Curator (Intern)** &mdash; Rome, Italy | *March - June 2010*
 
 My main tasks were the composition of graphic panels, writing of technical and scientific texts, creating PowerPoint presentations, acquisition of images, selection of verses from Sanskrit literature and bibliographic research. My work was done in collaboration with the scientific and technical apparatus and the press office of the Museum.
 
 ###Shanti Travel Adventure Tours Pvt Ltd 
-__Intern, Travel Advisor__ &mdash; New Delhi, India | _September 2009 - December 2009_
+__Travel Advisor (Intern)__ &mdash; New Delhi, India | _September 2009 - December 2009_
 
 My main tasks were the organization of individualor group tours in the Indian Sub-continent. I was required to deal with customer bookings, responding to enquiries, create and design travel itineraries and quotations. I was in charge of the translations from various languages to English and vice versa and from Italian to French and vice versa, and for the preparation of PowerPoint presentations. My responsibilities included surveying various locations and meeting and negotiating with local hotels, agencies, transporters and guides.
 
@@ -138,8 +143,8 @@ Get in touch
 
 [Read my code]:http://github.com/stefaniacardenas
 [Unipop]:https://github.com/stefaniacardenas/unipop
-[Instagram Clone]:https://github.com/stefaniacardenas/instagram-clone
-[Bookmark Manager]:https://github.com/stefaniacardenas/bookmark-manager
+[Flickagram]:https://github.com/stefaniacardenas/instagram-clone
+[FlagGo]:https://github.com/stefaniacardenas/bookmark-manager
 [Twitter]: https://twitter.com/Stef_F_Cardenas
 [LinkedIn]: http://uk.linkedin.com/in/stefaniafcardenas
 
