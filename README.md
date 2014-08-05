@@ -47,12 +47,12 @@ A highly intensive web development course built on the most modern learning tech
 
 Education and awards
 --------------------
-###La Sapienza University of Rome
+###La Sapienza, University of Rome - Rome, Italy
 __Faculty of Oriental Studies__
 
-2010-2012. &mdash; Master Degree in Oriental Languages and Cultures, major in Indian Archeology. Grade: 109/110
+2010-2012 &mdash; Master Degree in Oriental Languages and Cultures, major in Indian Archeology. Grade: 109/110
 
-2005-2009. &mdash;  Bachelor Degree in Oriental Languages and Cultures. Grade: 110/110
+2005-2009 &mdash;  Bachelor Degree in Oriental Languages and Cultures. Grade: 110/110
 
 ###Jadavpur University – Kolkata, India.
 2007-2008 &mdash; Exchange student. Awarded a six month scholarship.
@@ -62,15 +62,15 @@ __Senior High School Specializing In Modern Languages__
 
 1999-2004 &mdash;  “A Levels” in Foreign Languages. Grade: 93/100
 
-###European School of Economics, London
+###European School of Economics - London, UK
 2004 &mdash; Linguistic Stage. Awarded a 100 hours linguistic stage.
 
 
 Employment History
 --------------------
 
-### Oho Group Ltd – London, UK
-__Recruitment Consultant__ | _October 2012 – March 2014_
+### Recruitment Consultant
+**Oho Group Ltd** &mdash; London, UK | *October 2012 – March 2014* 
 
 I have been working as a Recruitment Consultant in the IT Sector. 
 * Searching and selection of the potential candidates .
@@ -78,22 +78,22 @@ I have been working as a Recruitment Consultant in the IT Sector.
 * Enter and maintain integrity of data in recruiting database (Voyager) and produce ad hoc recruiting searches.
 * Attended several technology fairs and conferences.
 
-#### _Internships and collaborations_
+###### _Internships and collaborations_
 
-### MH2YH (Charity)
-__Project Management__ | _November 2012 – July 2013_
+### Project Management 
+**MH2YH (Charity)** &mdash; London, UK | *November 2012 – July 2013*
 
 While working at the Oho Group, I have been in charge of the management of a charity project called "My House 2 Your House" during which we raised £70,000+ for Parkinson’s UK, which works to find a cure and improve life for everyone affected by Parkinson’s.
 MH2YH took a group of ordinary guys on their 30's on an amazing journey from London to Amsterdam. But they were not flying, or driving, or taking the ferry. They made this journey by manpower alone. That is 537km in 5 days. 
 Duties vary from the selection and management of the routes and logistics to the booking of support vehicles, boats and hotels, budget management, etc. 
 
-###Rockerilla (Monthly Music magazine, Italy)
-__Collaborator__ | _November 2010 – March 2012_
+### Collaborator
+**Rockerilla (Monthly Music magazine)** &mdash; Italy | *November 2010 – March 2012*
 
 Rockerilla is one of the most important italian music magazine. My main tasks as a music journalist were writing and editing articles; interviewing musicians, bands and writers; writing reviews about new album releases, books and live shows; photo shooting in live shows and photo editing.
 
-### National Museum of Oriental Arts "G. Tucci" - Rome, Italy
-__Internship – Assistant Curator__ | _March - June 2010_
+### Internship – Assistant Curator
+**National Museum of Oriental Arts "G. Tucci"** &mdash; Rome, Italy | *March - June 2010*
 
 My main tasks were the composition of graphic panels, writing of technical and scientific texts, creating PowerPoint presentations, acquisition of images, selection of verses from Sanskrit literature and bibliographic research. My work was done in collaboration with the scientific and technical apparatus and the press office of the Museum.
 
@@ -132,7 +132,8 @@ More about me
 - Twitter: 
 
 [Read my code]:http://github.com/stefaniacardenas
-[Unipop]:
-[Instagram Clone]:
-[Bookmark Manager]:
+[Unipop]:https://github.com/stefaniacardenas/unipop
+[Instagram Clone]:https://github.com/stefaniacardenas/instagram-clone
+[Bookmark Manager]:https://github.com/stefaniacardenas/bookmark-manager
+
 
