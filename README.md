@@ -48,22 +48,26 @@ A highly intensive web development course built on the most modern learning tech
 Education and awards
 --------------------
 ###La Sapienza, University of Rome
-__Faculty of Oriental Studies__ &mdash; Rome, Italy
+__Faculty of Oriental Studies &mdash; Rome, Italy__ 
 
-2010-2012 &mdash; Master Degree in Oriental Languages and Cultures, major in Indian Archeology. Grade: 109/110
+_2010-2012_ | Master Degree in Oriental Languages and Cultures, major in Indian Archeology. **Grade: 109/110**
 
-2005-2009 &mdash;  Bachelor Degree in Oriental Languages and Cultures. Grade: 110/110
+_2005-2009_ | Bachelor Degree in Oriental Languages and Cultures. **Grade: 110/110**
 
-###Jadavpur University – Kolkata, India.
-2007-2008 &mdash; Exchange student. Awarded a six month scholarship.
+###Jadavpur University
+**Kolkata, India**
 
-###“P.E. Imbriani” Institute – Avellino, Italy
-__Senior High School Specializing In Modern Languages__
+_2007-2008_ | Exchange student. Awarded a six month scholarship.
 
-1999-2004 &mdash;  “A Levels” in Foreign Languages. Grade: 93/100
+###“P.E. Imbriani” Institute
+__Senior High School Specializing In Modern Languages &mdash; Avellino, Italy__
 
-###European School of Economics - London, UK
-2004 &mdash; Linguistic Stage. Awarded a 100 hours linguistic stage.
+_1999-2004_ | “A Levels” in Foreign Languages. **Grade: 93/100**
+
+###European School of Economics
+**London, UK**
+
+_2004_ | Linguistic Stage. Awarded a 100 hours linguistic stage.
 
 
 Employment History
