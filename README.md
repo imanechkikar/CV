@@ -3,14 +3,14 @@
 I'm a junior level Software Developer passionate about making beautiful functional web applications. After graduating with a first class degree in Oriental Languages from La Sapienza University, I spent 18 months working as a recruitment consultant in the IT sector. I decided to join a highly intensive web development course to pursue my life-long interest for web technologies and kickstart a career as a junior web developer.
 I am eager to continue developing my skills while working in a creative environment. [Read my code] on Github.
 
-## Code examples
+Code examples
 -------------
 
 | [Unipop] | [Instagram Clone] | [Bookmark Manager] |
 | :------------- | :------------ | :---------- |
 | Write text here | Text | More Text |
 
-## Software development
+Software development
 ---------------
 
 ### Technical skills
@@ -45,7 +45,7 @@ A highly intensive web development course built on the most modern learning tech
   - Pair programming and teamwork
   - Final project: [UniPop] - description
 
-##Education and awards
+Education and awards
 --------------------
 ###La Sapienza, University of Rome
 __Faculty of Oriental Studies__ &mdash; Rome, Italy
@@ -66,7 +66,7 @@ __Senior High School Specializing In Modern Languages__
 2004 &mdash; Linguistic Stage. Awarded a 100 hours linguistic stage.
 
 
-##Employment History
+Employment History
 --------------------
 
 ### Oho Group Ltd
@@ -78,7 +78,7 @@ I have been working as a Recruitment Consultant in the IT Sector.
 * Enter and maintain integrity of data in recruiting database (Voyager) and produce ad hoc recruiting searches.
 * Attended several technology fairs and conferences.
 
-## Internships and collaborations
+Internships and collaborations
 -----------------------------------
 
 ### MH2YH (Charity)
@@ -104,7 +104,7 @@ __Internship - Travel Advisor__ &mdash; New Delhi, India | _September 2009 - Dec
 My main tasks were the organization of individualor group tours in the Indian Sub-continent. I was required to deal with customer bookings, responding to enquiries, create and design travel itineraries and quotations. I was in charge of the translations from various languages to English and vice versa and from Italian to French and vice versa, and for the preparation of PowerPoint presentations. My responsibilities included surveying various locations and meeting and negotiating with local hotels, agencies, transporters and guides.
 
 
-## More about me
+More about me
 --------
 ### Languages
 * Fluent: English, Spanish, Italian (Native)
@@ -124,7 +124,7 @@ My main tasks were the organization of individualor group tours in the Indian Su
 * I love travelling (who doesn't?).
 * I'm a fun-lover. I regularly attend gigs, festivals, parties, etc.
 
-## Get in touch
+Get in touch
 -------------
 
 - Email: stefaniaf.cardenas@gmail.com
