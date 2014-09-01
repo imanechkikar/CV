@@ -6,9 +6,15 @@ I am eager to continue developing my skills while working in a creative environm
 Code examples
 -------------
 
-| [Unipop] | [Flickagram] | [FlagGo] |
-| :------------- | :------------ | :---------- |
-| Unipop is a website and mobile app that enables students to buy and sell things speedily. Unipop is designed for a closed community such as a university. Unipop is optimized for iPhone 5 and supports other mobile devices. | Ruby on Rails app based around the idea of Instagram and Flickr. You can post photos on the website, use hashtags, comments, etc. | FlagGo is a bookmark manager that allows you to save and manage your favourite webpages' URLs. Developed using Ruby, Sinatra, Capybara, HTML5, CSS3 and PostgreSQL. |
+| Project   |  Description |
+|-----------|-------------|
+| [Unipop]  | Unipop is a web and mobile app that enables students to buy and sell things speedily. Unipop is designed for a closed community such as a university. Unipop is optimized for iPhone 5 and supports other mobile devices. This was my final project at [Makers Academy] and was built in two weeks with a team of seven.|
+| [R-P-S-L-Spock!] | A JavaScript version of the popular game Rock, Paper, Scissor with the addition of two new picks, Lizard and Spock (as seen in the series Big Bang Theory).
+The aim of the exercise is to gain basic knowledge of JavaScript, jQuery and Jasmine. |
+| [Sudoku] | This is my fifth week project at Makers Academy. The app allows you to play sudoku online. The exercise involves basic math logic, object-oriented-programming, knowledge of strings, arrays and hashes, knowledge of HTML5 and CSS3. I developed the web version. |
+| [InkedIn] | InkedIn is a social network that connects tattoo lovers and artists. It's a Ruby on Rails app based around the idea of Instagram. You can post photos on the website, use hashtags, comments, etc. I am currently working on this project.|
+| [FlagGo]  | FlagGo is a bookmark manager that allows you to save and manage your favourite webpages' URLs. Developed using Ruby, Sinatra, Capybara, HTML5, CSS3 and PostgreSQL. I am currently working on this project.|
+
 
 Software development
 ---------------
@@ -143,8 +149,10 @@ Get in touch
 
 [Read my code]:http://github.com/stefaniacardenas
 [Unipop]:https://github.com/stefaniacardenas/unipop
-[Flickagram]:https://github.com/stefaniacardenas/instagram-clone
+[InkedIn]:https://github.com/stefaniacardenas/instagram-clone
 [FlagGo]:https://github.com/stefaniacardenas/bookmark-manager
 [Twitter]: https://twitter.com/Stef_F_Cardenas
 [LinkedIn]: http://uk.linkedin.com/in/stefaniafcardenas
+[R-P-S-L-Spock!]: https://github.com/stefaniacardenas/rock-paper-scissors-lizard-spock
+[Sudoku]: https://github.com/stefaniacardenas/sudoku
 
