@@ -9,8 +9,7 @@ Code examples
 | Project   |  Description |
 |-----------|-------------|
 | [Unipop]  | Unipop is a web and mobile app that enables students to buy and sell things speedily. Unipop is designed for a closed community such as a university. Unipop is optimized for iPhone 5 and supports other mobile devices. This was my final project at [Makers Academy] and was built in two weeks with a team of seven.|
-| [R-P-S-L-Spock!] | A JavaScript version of the popular game Rock, Paper, Scissor with the addition of two new picks, Lizard and Spock (as seen in the series Big Bang Theory).
-The aim of the exercise is to gain basic knowledge of JavaScript, jQuery and Jasmine. |
+| [R-P-S-L-Spock!] | A JavaScript version of the popular game Rock, Paper, Scissor with the addition of two new picks, Lizard and Spock (as seen in the series Big Bang Theory). The aim of the exercise is to gain basic knowledge of JavaScript, jQuery and Jasmine. |
 | [Sudoku] | This is my fifth week project at Makers Academy. The app allows you to play sudoku online. The exercise involves basic math logic, object-oriented-programming, knowledge of strings, arrays and hashes, knowledge of HTML5 and CSS3. I developed the web version. |
 | [InkedIn] | InkedIn is a social network that connects tattoo lovers and artists. It's a Ruby on Rails app based around the idea of Instagram. You can post photos on the website, use hashtags, comments, etc. I am currently working on this project.|
 | [FlagGo]  | FlagGo is a bookmark manager that allows you to save and manage your favourite webpages' URLs. Developed using Ruby, Sinatra, Capybara, HTML5, CSS3 and PostgreSQL. I am currently working on this project.|
