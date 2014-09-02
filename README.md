@@ -48,7 +48,7 @@ A highly intensive web development course built on the most modern learning tech
   - Ruby, object oriented programming and software design
   - Full stack web development
   - Pair programming and teamwork
-  - Final project: [UniPop] is a ruby on rails app developed by a team of 7 people in 2 weeks. I have been involved in the full development of the app with a particular focus on the following areas:
+  - Final project: [UniPop] is a Ruby on Rails app developed by a team of 7 people in 2 weeks. I have been involved in the full development of the app with a particular focus on the following areas:
    * Mockups and prototypes using Balsamiq;
    * User registration, authentication and validation;
    * Geolocation, geocoding and distance calculation using Gmaps;
