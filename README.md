@@ -149,7 +149,7 @@ Get in touch
 [Read my code]:http://github.com/stefaniacardenas
 [Makers Academy]: http://www.makersacademy.com/
 [Unipop]:https://github.com/stefaniacardenas/unipop
-[InkedIn]:https://github.com/stefaniacardenas/instagram-clone
+[InkedIn]:https://github.com/stefaniacardenas/inkedin
 [FlagGo]:https://github.com/stefaniacardenas/bookmark-manager
 [Twitter]: https://twitter.com/Stef_F_Cardenas
 [LinkedIn]: http://uk.linkedin.com/in/stefaniafcardenas
