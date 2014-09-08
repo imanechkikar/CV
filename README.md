@@ -133,10 +133,8 @@ More about me
 
 ### Interests
 
-* I play harmonica, guitar, bass and sitar. I like vinyls and garage rock (and so many other genres!).
-* Strong interest in astrology (making horoscopes), needlecraft, reading and photography.
-* I love travelling (who doesn't?).
-* I'm a fun-lover. I regularly attend gigs, festivals, parties, etc.
+* I play harmonica, guitar, bass and sitar. I like vinyl and garage rock (and so many other genres!).
+* I regularly attend gigs, festivals, parties, etc.
 
 Get in touch
 -------------
